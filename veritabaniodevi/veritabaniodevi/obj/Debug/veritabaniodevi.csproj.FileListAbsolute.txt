@@ -1,0 +1,10 @@
+C:\Users\tahsinsoyak\source\repos\veritabaniodevi\veritabaniodevi\bin\Debug\veritabaniodevi.exe.config
+C:\Users\tahsinsoyak\source\repos\veritabaniodevi\veritabaniodevi\bin\Debug\veritabaniodevi.exe
+C:\Users\tahsinsoyak\source\repos\veritabaniodevi\veritabaniodevi\bin\Debug\veritabaniodevi.pdb
+C:\Users\tahsinsoyak\source\repos\veritabaniodevi\veritabaniodevi\obj\Debug\veritabaniodevi.csprojAssemblyReference.cache
+C:\Users\tahsinsoyak\source\repos\veritabaniodevi\veritabaniodevi\obj\Debug\veritabaniodevi.Form1.resources
+C:\Users\tahsinsoyak\source\repos\veritabaniodevi\veritabaniodevi\obj\Debug\veritabaniodevi.Properties.Resources.resources
+C:\Users\tahsinsoyak\source\repos\veritabaniodevi\veritabaniodevi\obj\Debug\veritabaniodevi.csproj.GenerateResource.cache
+C:\Users\tahsinsoyak\source\repos\veritabaniodevi\veritabaniodevi\obj\Debug\veritabaniodevi.csproj.CoreCompileInputs.cache
+C:\Users\tahsinsoyak\source\repos\veritabaniodevi\veritabaniodevi\obj\Debug\veritabaniodevi.exe
+C:\Users\tahsinsoyak\source\repos\veritabaniodevi\veritabaniodevi\obj\Debug\veritabaniodevi.pdb
