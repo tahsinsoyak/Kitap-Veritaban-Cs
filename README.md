@@ -17,9 +17,9 @@ Veri Tabanında Stored Procedure ve Function kullanarak C# Windows Form uygulama
 ##### Hazır sql sorgusunu çalıştırabilirsiniz.
 ##### Txt dosyasında database düzenleyip veri tabanında çalıştırabilirsiniz.
 
--veritabaniodev.bacpac
--veritabaniquery.sql
--databasecode.txt
+- veritabaniodev.bacpac
+- veritabaniquery.sql
+- databasecode.txt
 
 ### Veri tabanı kurulduktan sonra oluşacak veri tabanı
 ![ek-3](https://user-images.githubusercontent.com/54424377/167262757-27e65c77-00d7-4170-a362-5367f535515e.png)
